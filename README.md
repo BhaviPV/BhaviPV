@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhaviPV
+- 👋 Hi, I’m Bhavishya Ponugoti (@BhaviPV)
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Python, Apache spark
 - 💞️ I’m looking to collaborate with other data analysts, business analysts, and stakeholders to solve problems.
